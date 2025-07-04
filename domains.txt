@@ -1,10 +1,1 @@
-https://invalid1.example.com
-https://invalid1.example.com
-https://invalid1.example.com
-https://invalid1.example.com
-https://invalid1.example.com
-https://invalid1.example.com
-https://invalid1.example.com
-https://web.336513000.xyz
-https://apitest8.341273000.xyz
-https://www.google.com
+https://api1.example.com,https://api2.example.com,https://api3.example.com,https://backup.example.com
