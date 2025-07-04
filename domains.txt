@@ -1,1 +1,10 @@
-https://api1.example.com,https://api2.example.com,https://api3.example.com,https://backup.example.com
+{
+  "domains": [
+    "https://api1.example.com",
+    "https://api2.example.com",
+    "https://api3.example.com",
+    "https://backup.example.com"
+  ],
+  "updated": "2025-01-01",
+  "version": "1.0"
+}
